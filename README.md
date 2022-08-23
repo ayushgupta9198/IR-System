@@ -4,12 +4,12 @@ This code is based on NLTK and Wordnet wherein you can get information based on 
 
 Before that you can install the dependencies from requirements.txt file and run the code file as:
 
-for install the dependencies:
+#for install the dependencies:
 
-pip install -r requirements.txt
+** pip install -r requirements.txt ** 
 
-For running the code file:
+#For running the code file:
 
-python code.py
+** python code.py **
 
 
